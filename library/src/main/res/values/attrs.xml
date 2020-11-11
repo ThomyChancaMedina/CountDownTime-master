@@ -4,5 +4,14 @@
         <attr name="prefixText" format="string" />
         <attr name="suffixText" format="string" />
         <attr name="timeMilliSeconds" format="string" />
+        <attr name="timeTextSize" format="string" />
+        <attr name="timeTextColor" format="string" />
+        <attr name="descriptionText" format="string" />
+        <attr name="descriptionTextColor" format="string" />
+        <attr name="descriptionTextSize" format="string" />
+        <attr name="innerCircleColor" format="string" />
+        <attr name="outerCircleColor" format="string" />
+        <attr name="clockwise" format="string" />
+        <attr name="animation" format="string" />
     </declare-styleable>
 </resources>
